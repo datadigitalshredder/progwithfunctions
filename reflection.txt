@@ -1,0 +1,40 @@
+Please take a few minutes to reflect on your experience in CSE 111 and
+think about the challenges, successes, and all that you've learned
+along the way.
+
+
+Now, please respond thoroughly (1 - 2 paragraphs for each question) to
+the following questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+When I was first introduced to functions this semester, I was not very comfortable \
+using them due to being used to writing programs with no functions. But as we progressed \
+and began to write more complex programs, the use of functions and their importance became \
+clearer to me. In the project I completed, I was able to write a significantly large program \
+broken down into multiple functions. In the project, I then called the different fUnctions \
+so that the program executed the way I wanted it to.
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are very important and valuable as they verify that the program is running well \
+and that there are no errors. Errors might occur in a program that is running but with some \
+mistakes. In order to verify that the program does not have subtle mistakes, it is wise \
+to have text functions to verify that.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+The process I follow to troubleshoot a program that has a problem is \
+I start by reading and trying to understand the error message on the \
+terminal window. That usually gives clues into what I need to do to \
+fix the program. Sometimes that does not help and the next thing I do \
+is read the documentation for the package or library. The documentation, \
+in most cases, helps me figure out where the problem is. Finally, I use \
+the debugging tool to see what the program is doing on every step and \
+then pinpoint the line of code that has the error.
+
+One thing I can do to improve this process is to use the debugging tool \
+more often and read the documentation more frequently. I usually find \
+myself trying to solve the problem without debugging or reading the \
+documentation and that usually takes me hours to find the problem.

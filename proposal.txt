@@ -1,0 +1,26 @@
+Significant Program Proposal
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+Analysis of Covid-19 tests patterns for Chicago residents, 2020 to 2021.
+2. What real world problem will your program address or help to solve?
+Analysis of this data will give information on the trends and patterns of Covid-19 testing in a specified community and will help educate decision makers on policy implementation.
+3. What will you learn from developing this program?
+I will be able to summarize and visualize raw and complex data and draw conclusions from it.
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+I’m planning on using csv, numpy, pandas, matplotlib, and pytest.
+5. Will you separate your Python program into functions that each
+perform a single task?
+Yes, the entire program will be separated into functions.
+6. Will you write test functions to test many of your program functions?
+Yes, all functions will be tested using test functions.
+
